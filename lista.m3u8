@@ -1,0 +1,161 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776060924/jsybrlnpmmq6gzdqxphb.webp" group-title="General",America TV
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-17.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/tvpublica.webp" group-title="General",TvPública
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/tvpublica.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/Telefe-logo.webp" group-title="General",Telefe
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/telefe.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1775891912/ml2lcrholt2upgw3iasl.webp" group-title="General",El Trece
+https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061311/qh6551ly8rza0ph0zw2x.webp" group-title="General",C5N
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/c5n.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061363/fjzwqladzkittv8o9cnt.webp" group-title="General",TN
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/tn.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061417/haefgny7rmmlupuswdcn.webp" group-title="General",Cronica TV
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/CronicaTv.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061521/riqloij2exfviq3dnw8f.webp" group-title="General",A24
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/a24.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061873/m2b7kwlicvhouoayjpis.webp" group-title="General",Ciudad Magazine
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/ciudadmagazine.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061993/glfw3yonxivffe9tuqqf.webp" group-title="General",Volver
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-74.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/TyCSports-logo.webp" group-title="Deportes",TyC Sports
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-90.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/ESPN1-logo.webp" group-title="Deportes",ESPN
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-94.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/ESPN2-logo.webp" group-title="Deportes",ESPN 2
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-97.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/ESPN3-logo.webp" group-title="Deportes",ESPN 3
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-96.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/ESPN4-logo.webp" group-title="Deportes",ESPN 4
+http://201.217.246.42:44310/Live/102a9514b52501148d7f59533a0feae3/local-95_540.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/ESPN5-logo.webp" group-title="Deportes",ESPN 5
+http://201.217.246.42:44310/Live/102a9514b52501148d7f59533a0feae3/local-104_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/ESPN6-logo.webp" group-title="Deportes",ESPN 6
+http://181.224.200.5:2277/play/a02h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/ESPN7-logo.webp" group-title="Deportes",ESPN 7
+http://201.217.246.42:44310/Live/102a9514b52501148d7f59533a0feae3/local-106_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/ESPNPremium-logo.webp" group-title="Deportes",ESPN Premium
+http://201.217.246.42:44310/Live/87c30360c988c20002c941a15df39e07/local-02_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/TNTSports-logo.webp" group-title="Deportes",TNT Sports
+http://201.217.246.42:44310/Live/8a6966d9e4c49bb4fc485124c6684264/local-04_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/Fox-logo.webp" group-title="Deportes",Fox Sports
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-91.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/Fox2-logo.webp" group-title="Deportes",Fox Sports 2
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-93.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/Fox3-logo.webp" group-title="Deportes",Fox Sports 3
+http://201.217.246.42:44310/Live/87c30360c988c20002c941a15df39e07/local-92_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/Dsports-logo1.webp" group-title="Deportes",Dsports
+http://217.26.190.76:8888/play/a0co/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/Dsports-logo1.webp" group-title="Deportes",Dsports (Alternativo)
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061741/lefz3jg0mhwrxdvply65.webp" group-title="Infantil",Cartoon Network
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-31.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1775891943/pzmczdnn9zq9uc7our7c.webp" group-title="Infantil",Disney Channel
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-32.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061788/bgyyvgrjkth7n1x8zmcn.webp" group-title="Infantil",Nickelodeon
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-33.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061833/msbmbtpseq463ci7avbs.webp" group-title="Infantil",Discovery Kids
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-34.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776062253/gleqzudmpdpnbif7sbni.webp" group-title="Películas",Star Channel
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-68.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776062314/y9ll10xttejpnjmw3vyy.webp" group-title="Películas",TNT
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-66.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776062359/dsxumuv7zxwmkxdrsg4m.webp" group-title="Películas",Cinecanal
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-62.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776062416/wv8msm94qyqfhxqgorm3.webp" group-title="Películas",Cinemax
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-61.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061563/p8095uxgnnhhgrwetxup.webp" group-title="General",Sony
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-70.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061624/koycbti8njl9wdg4o8cy.webp" group-title="General",AXN
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-77.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061679/oq2idelabryqlqvhekqo.webp" group-title="General",Comedy Central
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-60.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776062513/w2jojdxejs0mdbt1uaxd.webp" group-title="Películas",Space
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-69.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776062562/hxmwbuszssg0wu4du5mc.webp" group-title="Películas",HBO
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-102.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776062609/nb51z9qfpb3fj7b2ujrt.webp" group-title="Películas",Studio Universal
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-67.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776065533/cxuxknlbrzzncomm6lgc.webp" group-title="Películas",TNT Series
+http://201.217.246.42:44310/Live/102a9514b52501148d7f59533a0feae3/local-64_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776065629/w5sjvts5r8x1z8dmul1w.webp" group-title="Películas",TNT Novelas
+http://201.217.246.42:44310/Live/102a9514b52501148d7f59533a0feae3/local-65_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776065768/zrvqqqej055qewhtusjs.webp" group-title="Películas",Warner Channel
+http://201.217.246.42:44310/Live/102a9514b52501148d7f59533a0feae3/local-73_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776065896/u1j1xbvz5ftdrbbbrf1o.webp" group-title="Películas",Universal
+http://201.217.246.42:44310/Live/102a9514b52501148d7f59533a0feae3/local-75_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776066015/oevgaknmlucp12thxudz.webp" group-title="Películas",HBO Plus
+http://201.217.246.42:44310/Live/102a9514b52501148d7f59533a0feae3/local-109_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776062474/jjhabegak12stkll8r2y.webp" group-title="Películas",Cine AR
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-20.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061916/teqjqkda1pjiznyr4zta.webp" group-title="Documentales",Discovery
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-44.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776062057/tyz1k8my6xxunrrxwr11.webp" group-title="Documentales",Animal Planet
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-45.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776062152/lhepfmececquupneoeef.webp" group-title="Documentales",TLC
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/tlc.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776062203/xsf8rapjp9cniiikfdez.webp" group-title="Documentales",History
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-40.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776065275/hyqcssyrh3prdgkhpv2k.webp" group-title="Documentales",h&h
+http://201.217.246.42:44310/Live/102a9514b52501148d7f59533a0feae3/local-43_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776062670/vv56s8lcwyxpkpo5lobk.webp" group-title="Música",MTV
+http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-50.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776062733/pxu228x52bwgwj3pbjm9.webp" group-title="Música",Quiero Música
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-51_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776062781/fgiwqjhkec2grcmzejs0.webp" group-title="Música",HTV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/40.m3u8
+
