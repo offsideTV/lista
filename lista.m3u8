@@ -10,8 +10,7 @@ http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/tvpublica.play
 http://192.168.248.5/Live/fd00ab8cb42f0cec9f3b172fc712315b/telefe_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/Telefe-logo.webp" group-title="General",Telefe
-http://45.5.151.147:8000/play/a00g/80037656.m3u8
-
+http://45.5.151.147:8000/play/a00g/18162071.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1775891912/ml2lcrholt2upgw3iasl.webp" group-title="General",El Trece
 https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
