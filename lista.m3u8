@@ -7,12 +7,12 @@ http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-17.playl
 http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/tvpublica.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/Telefe-logo.webp" group-title="General",Telefe
-http://192.168.248.5/Live/fd00ab8cb42f0cec9f3b172fc712315b/telefe_480.m3u8
+http://201.217.246.42:44310/Live/926d0b54e75badb8737ffae162d76961/telefe_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/Telefe-logo.webp" group-title="General",Telefe
 http://45.5.151.147:8000/play/a00g/18162071.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1775891912/ml2lcrholt2upgw3iasl.webp" group-title="General",El Trece
-https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+http://201.217.246.42:44310/Live/926d0b54e75badb8737ffae162d76961/eltrece_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061311/qh6551ly8rza0ph0zw2x.webp" group-title="General",C5N
 http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/c5n.playlist.m3u8
