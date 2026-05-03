@@ -75,8 +75,7 @@ http://201.217.246.42:44310/Live/87c30360c988c20002c941a15df39e07/local-92_720.m
 http://217.26.190.76:8888/play/a0co/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/OffsideTV/logosweb@main/Dsports-logo1.webp" group-title="Deportes",Dsports (Alternativo)
-http://217.26.190.76:8888/play/a0co/index.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061741/lefz3jg0mhwrxdvply65.webp" group-title="Infantil",Cartoon Network
+http://201.230.121.85:8000/play/a0yv/index.m3u8 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1776061741/lefz3jg0mhwrxdvply65.webp" group-title="Infantil",Cartoon Network
 http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-31.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dl2tftoum/image/upload/v1775891943/pzmczdnn9zq9uc7our7c.webp" group-title="Infantil",Disney Channel
