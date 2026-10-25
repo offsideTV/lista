@@ -111,9 +111,9 @@
           "drmKey": null
         },
         {
-          "name": "Reproductor 2 (WebView)",
-          "iframe": "https://la18hd.su/vivo/canales.php?stream=telefe",
-          "streamType": "iframe",
+          "name": "Reproductor 2 ",
+          "iframe": "http://108.175.13.7/live/f91d7572-0a8d-48f1-80d7-40a2f44f2bce/849b2bd03d3c1e8a/index.m3u8",
+          "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
@@ -156,8 +156,17 @@
       "drmKeyId": null,
       "drmKey": null
     },
-    {
+{
       "name": "Reproductor 3",
+      "iframe": "http://108.175.13.7/live/f91d7572-0a8d-48f1-80d7-40a2f44f2bce/c41befc99769c7cf/index.m3u8",
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
+    },
+
+    {
+      "name": "Reproductor 4",
       "iframe": "http://192.168.248.5/Live/2e406649c0e5e9184090c73c87338dce/local-eltrece_720.m3u8",
       "streamType": "hls",
       "headers": null,
@@ -712,7 +721,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a0ft/index.m3u8",
+          "iframe": "http://108.175.13.7/live/f91d7572-0a8d-48f1-80d7-40a2f44f2bce/c2a4931f7478aec7/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -909,9 +918,18 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        }
+        },
+        {
+      "name": "Reproductor 2",
+      "iframe": "http://108.175.13.7/live/f91d7572-0a8d-48f1-80d7-40a2f44f2bce/a6ed83647a28147c/index.m3u8",
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
+    }
       ]
     },
+
     {
       "name": "ESPN 2",
       "logo": "https://bestleague.pl/img/espn2.webp",
@@ -931,7 +949,15 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        }
+        },
+        {
+      "name": "Reproductor 2",
+      "iframe": "http://108.175.13.7/live/f91d7572-0a8d-48f1-80d7-40a2f44f2bce/8cdb7ca2ad5acda7/index.m3u8",
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
+    }
       ]
     },
     {
@@ -953,9 +979,19 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        }
+        },
+        {
+      "name": "Reproductor 2",
+      "iframe": "http://108.175.13.7/live/f91d7572-0a8d-48f1-80d7-40a2f44f2bce/8a47b3d771801f17/index.m3u8",
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
+    }
       ]
     },
+
+
         {
       "name": "ESPN 4",
       "logo": "https://bestleague.pl/img/espn4.webp",
@@ -975,7 +1011,15 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        }
+        },
+        {
+      "name": "Reproductor 2",
+      "iframe": "http://108.175.13.7/live/f91d7572-0a8d-48f1-80d7-40a2f44f2bce/fe4b0f7223c63bee/index.m3u8",
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
+    }
       ]
     },
             {
@@ -997,7 +1041,15 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        }
+        },
+        {
+      "name": "Reproductor 2",
+      "iframe": "http://108.175.13.7/live/f91d7572-0a8d-48f1-80d7-40a2f44f2bce/ce043f0fd122fda3/index.m3u8",
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
+    }
       ]
     },
             {
@@ -1019,7 +1071,15 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        }
+        },
+        {
+      "name": "Reproductor 2",
+      "iframe": "http://108.175.13.7/live/f91d7572-0a8d-48f1-80d7-40a2f44f2bce/ac234276e09962a1/index.m3u8",
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
+    }
       ]
     },
                 {
@@ -1041,7 +1101,15 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        }
+        },
+        {
+      "name": "Reproductor 2",
+      "iframe": "http://108.175.13.7/live/f91d7572-0a8d-48f1-80d7-40a2f44f2bce/2799e0c33af64695/index.m3u8",
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
+    }
       ]
     },
     
@@ -1065,13 +1133,14 @@
           "drmKeyId": null,
           "drmKey": null
         },
-         {
-          "name": "Reproductor 2 (HD)",
-          "iframe": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzMDc0OTI1Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA2IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiODI5NjlhY2NiY2I3MzI2ZSIsInNlc3Npb25faWQiOiI1MTRhMTcwNmQ0YTc4MTAxNWJiN2E5YTYyZjcwYTZjMS0xNzkyOTAyMTI1LTY4NiIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDA2NDY2MjEyLS1mbG93Ojk5OTkwMDAwNjQ2NjIxMjpQOlM5dkVlLVEzVFN5bE0xQ2t2N2ZJS0EiLCJkZXZpY2VfaWQiOiI1MTRhMTcwNmQ0YTc4MTAxNWJiN2E5YTYyZjcwYTZjMSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjMxMSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jomRZPXlIA_pkwy-BQGWLbk5E_Su1sCxOQaj4B8cWgz_I7dA8QmWB7mDoj0NIL6b18P6KZrBQGra3ZkCz0J7sg==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-          "streamType": "dash",
-          "keyId": "c502892e037a9f34827147b2b24e42cf",
-          "key": "2531bd34bec6c0e8fa4e07aedb261ade"
-        }
+        {
+      "name": "Reproductor 2",
+      "iframe": "http://108.175.13.7/live/f91d7572-0a8d-48f1-80d7-40a2f44f2bce/8f2065494159513f/index.m3u8",
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
+    }
       ]
     },
     {
@@ -1095,12 +1164,13 @@
           "drmKey": null
         },
        {
-          "name": "Reproductor 2 (HD)",
-          "iframe": "https://edge-live12-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzMDc0MDEzIiwic2lwIjoiMjAxLjIxNy4yNDcuMTA4IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1ROVF9TcG9ydHNfSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJiOGQ2ODc3MjJiODZjN2UiLCJzZXNzaW9uX2lkIjoiNTE0YTE3MDZkNGE3ODEwMTViYjdhOWE2MmY3MGE2YzEtMTc5MjkwMTIxMy0xNDIiLCJjbGllbnRfaWQiOiJmbG93Ojk5OTkwMDAwNjQ2NjIxMi0tZmxvdzo5OTk5MDAwMDY0NjYyMTI6UDpTOXZFZS1RM1RTeWxNMUNrdjdmSUtBIiwiZGV2aWNlX2lkIjoiNTE0YTE3MDZkNGE3ODEwMTViYjdhOWE2MmY3MGE2YzEiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.2wKXEPkpl6AuMkf8TcP-icOc-Zi9mF9BY1ZXbhXeRRd1FuVPC9A4wWJZzc0HULdH0qg41KWIlX1sYwsTL2_pxw==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
-          "streamType": "dash",
-          "keyId": "9fb56301bc7687baf0b1a61def9a007a",
-          "key": "947d2294ba67256827e8e97f267e71e0"
-        }
+      "name": "Reproductor 2",
+      "iframe": "http://108.175.13.7/live/f91d7572-0a8d-48f1-80d7-40a2f44f2bce/d78c351ad09b9f89/index.m3u8",
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
+    }
       ]
     },
         {
