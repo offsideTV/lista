@@ -2836,10 +2836,32 @@
         }
       ]
     },
+      {
+      "name": "Online 24/7",
+      "logo": "https://res.cloudinary.com/dl2tftoum/image/upload/v1792894905/czfk56vlxarul4xlnsup.webp",
+      "category": "infantiles",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-46.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
     {
-      "name": "Evento 1",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu3DnKA26pZam_crvfw71Ssq3Qxd5ERHxe7dU_abYfJN02bWYEXhSRGG3SS3ps8XVDSBsXF3yVeAkwVcwQWLJ_sxX8uDKzm3oaVXbgpeLqFP58fZ0p6we9XjGzjTyiZb5nJe9kr6qTfv94gsOLP4Vy8dvXCgCB8tQMbi1klPUXt0OYX7brRTX7T0_FvvY/s900/ChocoPop%20TV%20Eventos.png",
-      "category": "eventos",
+      "name": "TUDN",
+      "logo": "https://images.seeklogo.com/logo-png/36/2/tudn-logo-png_seeklogo-368749.png",
+      "category": "deportes",
       "show": true,
       "streamUrl": null,
       "streamType": "hls",
@@ -2859,31 +2881,9 @@
       ]
     },
     {
-      "name": "Evento 2",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu3DnKA26pZam_crvfw71Ssq3Qxd5ERHxe7dU_abYfJN02bWYEXhSRGG3SS3ps8XVDSBsXF3yVeAkwVcwQWLJ_sxX8uDKzm3oaVXbgpeLqFP58fZ0p6we9XjGzjTyiZb5nJe9kr6qTfv94gsOLP4Vy8dvXCgCB8tQMbi1klPUXt0OYX7brRTX7T0_FvvY/s900/ChocoPop%20TV%20Eventos.png",
-      "category": "eventos",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://190.61.41.181:8000/play/a0n5/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Evento 3",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS3.png",
-      "category": "eventos",
+      "name": "Claro Sports",
+      "logo": "https://play-lh.googleusercontent.com/DOWFo0eUL9CjEmWChmXMAKwtBil_-69zKOFBLJuQIPmc0QjyrkfCVwiB2e5G1iMV92SDFDNSfuGLcX4AB0z-Rg",
+      "category": "deportes",
       "show": true,
       "streamUrl": null,
       "streamType": "hls",
@@ -2900,204 +2900,7 @@
           "drmKeyId": null,
           "drmKey": null
         }
-      ]
-    },
-    {
-      "name": "Evento 4",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS4.png",
-      "category": "eventos",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-04.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Evento 5",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS5.png",
-      "category": "eventos",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-05.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Evento 6",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS6.png",
-      "category": "eventos",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-06.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Evento 7",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS7.png",
-      "category": "eventos",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-e07.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Evento 8",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS8.png",
-      "category": "eventos",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-e08.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Evento 9",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS9.png",
-      "category": "eventos",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-e09.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Evento 10",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS10.png",
-      "category": "eventos",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-e10.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Evento 11",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS11.png",
-      "category": "eventos",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-e11.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Evento 12",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS12.png",
-      "category": "eventos",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-e12.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
+
       ]
     }
   ]
