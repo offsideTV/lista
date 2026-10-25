@@ -1067,10 +1067,8 @@
         },
         {
           "name": "Reproductor 2 (HD)",
-          "iframe": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzMDcyNjM3Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYzNjNDgxMzQwMDEzYWRiMiIsInNlc3Npb25faWQiOiI1MTRhMTcwNmQ0YTc4MTAxNWJiN2E5YTYyZjcwYTZjMS0xNzkyODk5ODM3LTY5NSIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDA2NDY2MjEyLS1mbG93Ojk5OTkwMDAwNjQ2NjIxMjpQOlM5dkVlLVEzVFN5bE0xQ2t2N2ZJS0EiLCJkZXZpY2VfaWQiOiI1MTRhMTcwNmQ0YTc4MTAxNWJiN2E5YTYyZjcwYTZjMSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxMSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.72kfWryrWThcjKQEgWsEiLVieSH30s3cWYFILy_znqAklNbMepXkc910WmEHksSoSulfkzAntcu_5dkB725twQ==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-          "streamType": "dash",
-          "keyId": "c502892e037a9f34827147b2b24e42cf",
-          "key": "2531bd34bec6c0e8fa4e07aedb261ade"
+          "iframe": "https://offsidetv.netlify.app/reproductor.html?ch=espnpremiumext-a&multi=espnpremium",
+          "streamType": "iframe"
         }
       ]
     },
