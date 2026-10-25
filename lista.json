@@ -1065,10 +1065,12 @@
           "drmKeyId": null,
           "drmKey": null
         },
-        {
+         {
           "name": "Reproductor 2 (HD)",
-          "iframe": "https://offsidetv.netlify.app/cvatt_ext.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
-          "streamType": "iframe"
+          "iframe": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzMDc0OTI1Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA2IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiODI5NjlhY2NiY2I3MzI2ZSIsInNlc3Npb25faWQiOiI1MTRhMTcwNmQ0YTc4MTAxNWJiN2E5YTYyZjcwYTZjMS0xNzkyOTAyMTI1LTY4NiIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDA2NDY2MjEyLS1mbG93Ojk5OTkwMDAwNjQ2NjIxMjpQOlM5dkVlLVEzVFN5bE0xQ2t2N2ZJS0EiLCJkZXZpY2VfaWQiOiI1MTRhMTcwNmQ0YTc4MTAxNWJiN2E5YTYyZjcwYTZjMSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjMxMSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jomRZPXlIA_pkwy-BQGWLbk5E_Su1sCxOQaj4B8cWgz_I7dA8QmWB7mDoj0NIL6b18P6KZrBQGra3ZkCz0J7sg==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+          "streamType": "dash",
+          "keyId": "c502892e037a9f34827147b2b24e42cf",
+          "key": "2531bd34bec6c0e8fa4e07aedb261ade"
         }
       ]
     },
