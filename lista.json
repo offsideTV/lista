@@ -125,39 +125,55 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "El Trece",
-      "logo": "https://bestleague.pl/img/eltrece.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
+        },
+         {
+      "name": "Reproductor 3",
+      "iframe": "http://192.168.248.5/Live/2e406649c0e5e9184090c73c87338dce/local-telefe_720.m3u8",
       "streamType": "hls",
       "headers": null,
       "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a07b/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/eltrece.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
+      "drmKey": null
+    }
       ]
     },
+   {
+  "name": "El Trece",
+  "logo": "https://bestleague.pl/img/eltrece.webp",
+  "category": "noticias",
+  "show": true,
+  "streamUrl": null,
+  "streamType": "hls",
+  "headers": null,
+  "drmKeyId": null,
+  "drmKey": null,
+  "sources": [],
+  "options": [
+    {
+      "name": "Reproductor 1",
+      "iframe": "http://138.59.227.20:8000/play/a07b/index.m3u8",
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
+    },
+    {
+      "name": "Reproductor 2",
+      "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/eltrece.playlist.m3u8",
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
+    },
+    {
+      "name": "Reproductor 3",
+      "iframe": "http://192.168.248.5/Live/2e406649c0e5e9184090c73c87338dce/local-eltrece_720.m3u8",
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
+    }
+  ]
+},
     {
       "name": "C5N",
       "logo": "https://bestleague.pl/img/c5n.webp",
