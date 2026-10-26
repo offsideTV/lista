@@ -787,7 +787,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a01l/index.m3u8",
+          "iframe": "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
