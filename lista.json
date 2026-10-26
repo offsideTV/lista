@@ -1140,6 +1140,14 @@
       "headers": null,
       "drmKeyId": null,
       "drmKey": null
+    },
+          {
+      "name": "Reproductor 3",
+      "iframe": "https://zonatv.sbs/canales.php?id=espnpremium-op3",
+      "streamType": "iframe",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
     }
       ]
     },
