@@ -1098,8 +1098,8 @@
     {
       "id": "tnt-sports",
       "name": "TNT Sports",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png",
-      "category": "Deportes Premium",
+      "logo": "https://assets.tntsports.com.ar/__export/1717073601661/sites/tntsports/arte/apps/facebook_20240530.jpg",
+      "category": "Futbol Argentino",
       "show": true,
       "options": [
         {
@@ -1114,7 +1114,7 @@
       "id": "espn-premium",
       "name": "ESPN Premium",
       "logo": "https://bestleague.pl/img/espnpr.webp",
-      "category": "Deportes Premium",
+      "category": "Futbol Argentino",
       "show": true,
       "options": [
         {
@@ -1130,7 +1130,7 @@
       "id": "espn-1",
       "name": "ESPN",
       "logo": "https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest/scale-to-width-down/1200?cb=20210826204726&path-prefix=es",
-      "category": "Deportes Premium",
+      "category": "Futbol Argentino",
       "show": true,
       "options": [
         {
