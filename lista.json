@@ -1141,6 +1141,36 @@
         }
       ]
     },
+     {
+      "id": "el-trece",
+      "name": "El Trece",
+      "logo": "https://bestleague.pl/img/eltrece.webp",
+      "category": "Argentina",
+      "show": true,
+      "options": [
+        {
+          "name": "Flow",
+          "mpd": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNTk3OTIyIiwic2lwIjoiODQuMjUyLjExNC4yIiwicGF0aCI6Ii9saXZlL2M1ZWRzL0M5Tl9DNC9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU0YTMxYTMyMzZhN2YwNTQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.8ug3pSvv3H7mYznoHVpP7zQTok7GJKL7XDwF3z3Xb-jC5tAG_paYl0emIq_rZo0tMAZYFxOdY8TM6iFx_bzE-w==/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
+          "keyId": "4aa8ec10f92b212c0cbaaa8e0591b468",
+          "key": "17985aeaac30e62e6dad45f4df84cc2c"
+        }
+      ]
+    },
+       {
+      "id": "telefe",
+      "name": "Telefe",
+      "logo": "https://bestleague.pl/img/telefe.png",
+      "category": "Argentina",
+      "show": true,
+      "options": [
+        {
+          "name": "Flow",
+          "mpd": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNTk4MzE5Iiwic2lwIjoiODQuMjUyLjExNC4yIiwicGF0aCI6Ii9saXZlL2MzZWRzL05pY2tlbG9kZW9uL1NBX0xpdmVfZGFzaF9lbmNfLyIsInNlc3Npb25fY2RuX2lkIjoiZmNlMTk0YzI4NmVmOGUzMCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjIzMSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.ivXwD9W_LfWNNF3N6fKjFze-eLQcTHmcIb-oeCtHUZSX32_8MnlwjDM7mtl7t5pXM-jzDEQ6wt-4zHfN6dcMBQ==/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
+          "keyId": "69d08ad795092fc59dbdfb194424dd92",
+          "key": "a73948b44e9292eede50c0c654301860"
+        }
+      ]
+    },
         {
       "name": "NBA TV (USA)",
       "logo": "",
