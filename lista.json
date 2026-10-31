@@ -1098,7 +1098,7 @@
     {
       "id": "tnt-sports",
       "name": "TNT Sports",
-      "logo": "https://img.futbol-libre.net/logos/tnt.png",
+      "logo": "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png",
       "category": "Deportes Premium",
       "show": true,
       "options": [
@@ -1113,7 +1113,7 @@
     {
       "id": "espn-premium",
       "name": "ESPN Premium",
-      "logo": "https://img.futbol-libre.net/logos/espn_premium.png",
+      "logo": "https://bestleague.pl/img/espnpr.webp",
       "category": "Deportes Premium",
       "show": true,
       "options": [
