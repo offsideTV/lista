@@ -1082,39 +1082,19 @@
     }
       ]
     },
-                {
+              {
       "name": "ESPN 7",
       "logo": "https://images.seeklogo.com/logo-png/52/2/espn-7-logo-png_seeklogo-522718.png",
       "category": "deportes",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
           "name": "Reproductor 1",
           "iframe": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-      "name": "Reproductor 2",
-      "iframe": "http://108.175.13.7/live/f91d7572-0a8d-48f1-80d7-40a2f44f2bce/2799e0c33af64695/index.m3u8",
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null
-    }
+          "streamType": "hls"
+        }
       ]
     },
-    
-   {
-  "channels": [
     {
       "id": "tnt-sports",
       "name": "TNT Sports",
@@ -1124,7 +1104,7 @@
       "options": [
         {
           "name": "Flow",
-          "mpd": "https://edge-mix04-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwNjQ2OTAyIiwic2lwIjoiMTgxLjkzLjE2NS4yMzciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDQ1ZGExNTI3Y2JiYTkxZCIsInNlc3Npb25faWQiOiJjMjE4YTgyYTE2ZTI0ZGUwMDBhMTUyNGQ1Yzg2MDg2Yi0xNzkwNDc0MTAyLTE5MyIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDA2NDY2MjEyLS1mbG93Ojk5OTkwMDAwNjQ2NjIxMjpQOlM5dkVlLVEzVFN5bE0xQ2t2N2ZJS0EiLCJkZXZpY2VfaWQiOiJjMjE4YTgyYTE2ZTI0ZGUwMDBhMTUyNGQ1Yzg2MDg2YiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzQ3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCwyMTAsODYsODhdfQ==.L-BGN_0phZCQb2rynbCQTAQL1m1BBn0h2PNQLWu-j3zxubDDuQQMZ06LLOJVPgYB2YTBj6101-q21rxQkxUGHw==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+          "mpd": "https://edge-mix04-cte.cvattv.com.ar/tok_eyJhb...",
           "keyId": "9fb56301bc7687baf0b1a61def9a007a",
           "key": "947d2294ba67256827e8e97f267e71e0"
         }
@@ -1139,14 +1119,12 @@
       "options": [
         {
           "name": "Flow",
-          "mpd": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNTk2MzAzIiwic2lwIjoiMjAxLjIxNy4yNDcuMTA2IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYzc4YzY5NTc5NTBkYmE0ZSIsInNlc3Npb25faWQiOiI1MTRhMTcwNmQ0YTc4MTAxNWJiN2E5YTYyZjcwYTZjMS0xNzkzNDIzNTAyLTY0MCIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDA2NDY2MjEyLS1mbG93Ojk5OTkwMDAwNjQ2NjIxMjpQOlM5dkVlLVEzVFN5bE0xQ2t2N2ZJS0EiLCJkZXZpY2VfaWQiOiI1MTRhMTcwNmQ0YTc4MTAxNWJiN2E5YTYyZjcwYTZjMSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxMSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.X6-thz46neiZNgA-IlxqWtnpuRZQrcxMsGiSzfn1yuig5AvjXXTuo0b6NHYiJQQX8qc8c0Q61lYNywPQiKFq7Q==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+          "mpd": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbG...",
           "keyId": "c502892e037a9f34827147b2b24e42cf",
           "key": "2531bd34bec6c0e8fa4e07aedb261ade"
         }
       ]
-    }
-  ]
-},
+    },
         {
       "name": "NBA TV (USA)",
       "logo": "",
