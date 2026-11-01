@@ -3,7 +3,7 @@
     {
       "id": "tnt-sports",
       "name": "TNT Sports",
-      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/3840px-TNT_Sports_%282023%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "logo": "https://assets.tntsports.com.ar/__export/1717073601661/sites/tntsports/arte/apps/facebook_20240530.jpg",
       "category": "Deportes",
       "show": true,
       "options": [
@@ -378,667 +378,262 @@
         }
       ]
     },
-    
-    {
-      "name": "CNN Español",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/CNN_ESPAÑOL.png",
-      "category": "noticias",
+      {
+      "id": "rural",
+      "name": "Canal Rural",
+     "logo": "https://bestleague.pl/img/rural.webp",
+      "category": "Noticias",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
-          "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a03k/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
+            "name": "Flow",
+            "mpd": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjY5ODU3Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA2IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0NhbmFsX1J1cmFsL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOTE5NDM4YzE3YzQ5ZWRkMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyMTkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.04quVKGXwgqkrQK5A6iTO7IZ34vo2oM2gwuyjP-NWG_xTVASwZtJ-u3hozWTFUyCRfOCeI7e8mWJQQdUl-6Kfg==/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd",
+          "keyId": "72308b4673698df3c4143be5410c82d4",
+          "key": "35f38c9fb04664572ee6c0a9c53a2388"
         }
       ]
     },
-    {
-      "name": "Canal A",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/CANAL_A.png",
-      "category": "noticias",
+  
+      {
+      "id": "telemundo",
+      "name": "Telemundo Internacional",
+     "logo": "https://bestleague.pl/img/telemundo.png",
+      "category": "Noticias",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-15.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
+            "name": "Flow",
+            "mpd": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjY5ODQ2Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA4IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0NhbmFsX1J1cmFsL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYmY4Y2Y2OWUzMzk0MzQ5MyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.IXYhG0ufGFmr2R1cqmGI1fNLNpX1ShMC9Zht5fkn-i9TDpVTSnu4Fetdx6mDfHtoHNZPvagH_4svxBLTyxRSlw==/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
+          "keyId": "8f1780497a311eb5e38ea03085888c47",
+          "key": "0dbdebc8d5336c970ac8c904e9bcd034"
         }
       ]
     },
-    {
-      "name": "Nueve Litoral",
-      "logo": "https://bestleague.pl/img/nueve.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-18.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/nuevelitoral.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Somos Santa Fe",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/SOMOS_STAFE.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-12.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Santa Fe Canal",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/RTS_STAFE.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-13.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Rural",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/CANAL_RURAL.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a06k/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "AR 12",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/AR12.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-21.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Telemax",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/TELEMAX.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/telemax.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "TeleSur",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1280px-TeleSUR-Logo.svg.png",
-      "category": "internacionales",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://181.119.108.43:9001/play/a0n3/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "TVE",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/TVE.png",
-      "category": "internacionales",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a080/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "RAI Italia",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVlG-TIKVA2LH1N5LKEGBat8owKFlk0jGtspkU-Sezg&s=10",
-      "category": "internacionales",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a06u/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Telemundo",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/TELEMUNDO.png",
-      "category": "internacionales",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://181.119.108.43:9001/play/a0c7/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Caracol TV",
-      "logo": "https://bestleague.pl/img/caracoltv.webp",
-      "category": "internacionales",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a02w/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Canal RCN",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",
-      "category": "internacionales",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://181.119.177.253:8000/play/a037/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "RT",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/RT.png",
-      "category": "internacionales",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-98.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
+   {
+      "id": "las-estrellas",
       "name": "Las Estrellas",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/LAS_ESTRELLAS.png",
-      "category": "internacionales",
+     "logo": "https://bestleague.pl/img/estrellas.png",
+      "category": "Entretenimiento",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/lasestrellas.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
+            "name": "Flow",
+            "mpd": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjY5ODQ2Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA4IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0NhbmFsX1J1cmFsL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYmY4Y2Y2OWUzMzk0MzQ5MyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.IXYhG0ufGFmr2R1cqmGI1fNLNpX1ShMC9Zht5fkn-i9TDpVTSnu4Fetdx6mDfHtoHNZPvagH_4svxBLTyxRSlw==/out/v1/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd",
+          "keyId": "df2f4235fe7c45c5a661554bc70cda0e",
+          "key": "39a738dbd543f5e3659c9dc265232aec"
         }
       ]
     },
-    
-    {
+
+      {
+      "id": "cine-canal",
       "name": "Cinecanal",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/CINECANAL.png",
-      "category": "peliculas",
+     "logo": "https://bestleague.pl/img/cinecanal.webp",
+      "category": "Entretenimiento",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
-          "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a03e/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
+            "name": "Flow",
+            "mpd": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjY5ODQ2Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA4IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0NhbmFsX1J1cmFsL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYmY4Y2Y2OWUzMzk0MzQ5MyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.IXYhG0ufGFmr2R1cqmGI1fNLNpX1ShMC9Zht5fkn-i9TDpVTSnu4Fetdx6mDfHtoHNZPvagH_4svxBLTyxRSlw==/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd",
+          "keyId": "98b31a0a125d81ef4c9caf1683f55444",
+          "key": "7ec3df0771fe86c9f405765ce9fb5204"
         }
       ]
     },
     {
+      "id": "cine-max",
       "name": "Cinemax",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/CINEMAX.png",
-      "category": "peliculas",
+     "logo": "https://tvlibre.st/en-vivo/cinemax",
+      "category": "Entretenimiento",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a08r/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
+            "name": "Flow",
+            "mpd": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjY5ODQ2Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA4IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0NhbmFsX1J1cmFsL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYmY4Y2Y2OWUzMzk0MzQ5MyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.IXYhG0ufGFmr2R1cqmGI1fNLNpX1ShMC9Zht5fkn-i9TDpVTSnu4Fetdx6mDfHtoHNZPvagH_4svxBLTyxRSlw==/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
+          "keyId": "fd84db183866916b15366b4852e68da8",
+          "key": "1201b1f0ed299a46ddffabb5c8553793"
         }
       ]
     },
-    {
+  
+   {
+      "id": "cine-ar",
       "name": "Cine AR",
-      "logo": "https://bestleague.pl/img/cinear.png",
-      "category": "peliculas",
+    "logo": "https://bestleague.pl/img/cinear.png",
+      "category": "Entretenimiento",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a069/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
+            "name": "Flow",
+            "mpd": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjY5ODQ2Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA4IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0NhbmFsX1J1cmFsL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYmY4Y2Y2OWUzMzk0MzQ5MyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjMxOCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.IXYhG0ufGFmr2R1cqmGI1fNLNpX1ShMC9Zht5fkn-i9TDpVTSnu4Fetdx6mDfHtoHNZPvagH_4svxBLTyxRSlw==/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd",
+          "keyId": "7a11a38b78f2a44380bf3954b169066e",
+          "key": "4e84e73a2ddfca8c8f473023033e0649"
         }
       ]
     },
-    {
-      "name": "Space",
-      "logo": "https://bestleague.pl/img/space.webp",
-      "category": "peliculas",
+   {
+      "id": "space",
+      "name": "SPACE",
+    "logo": "https://bestleague.pl/img/space.webp",
+      "category": "Entretenimiento",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
-          "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a03f/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
+            "name": "Flow",
+            "mpd": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjcxNDU2Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA2IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0lOQ0FBX1R2L1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2I5ZTM0MzYzZjVhZTgxYiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.bKOQIRJw95Lm4zk7GKD9IcyypATBqua3dhRXOlpj5Mx8x7h9Hgw4Quw40cXgOHDZq9IRX5cHus3HvabuR-31dA==/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
+          "keyId": "32684b675439d127a5ab1e07b2a57242",
+          "key": "e169f625df475d6d1c014cca1a52a251"
         }
       ]
     },
-    {
+      {
+      "id": "hbo",
       "name": "HBO",
-      "logo": "https://bestleague.pl/img/hbo.webp",
-      "category": "peliculas",
+   "logo": "https://bestleague.pl/img/hbo.webp",
+      "category": "Entretenimiento",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
-          "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a01e/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-102.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
+            "name": "Flow",
+            "mpd": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjcxNDU2Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA2IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0lOQ0FBX1R2L1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2I5ZTM0MzYzZjVhZTgxYiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.bKOQIRJw95Lm4zk7GKD9IcyypATBqua3dhRXOlpj5Mx8x7h9Hgw4Quw40cXgOHDZq9IRX5cHus3HvabuR-31dA==/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
+          "keyId": "b059cdbfc787a32f57fbcb6e52dbc0a0",
+          "key": "50648d7806624eb8d53fb2aecc8b1af1"
         }
       ]
     },
-    {
-      "name": "HBO PLUS",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO+.png",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-109.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "HBO Family",
-      "logo": "https://bestleague.pl/img/HBOFamily.png",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-101.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "HBO Signature",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO_SIGNATURE.png",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-107.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "HBO XTREME",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO_XTREME.png",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-103.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "HBO MUNDI",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO_MUNDI.png",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-110.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "HBO POP",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO_POP.png",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-108.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
+     {
+      "id": "hbo-2",
       "name": "HBO 2",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO2.png",
-      "category": "peliculas",
+   "logo": "https://bestleague.pl/img/hbo2.webp",
+      "category": "Entretenimiento",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-105.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
+            "name": "Flow",
+            "mpd": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjcxNDU2Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA2IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0lOQ0FBX1R2L1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2I5ZTM0MzYzZjVhZTgxYiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.bKOQIRJw95Lm4zk7GKD9IcyypATBqua3dhRXOlpj5Mx8x7h9Hgw4Quw40cXgOHDZq9IRX5cHus3HvabuR-31dA==/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+          "keyId": "91bd6f829d06498c21e212acf1c5fa07",
+          "key": "148a358284689e40b22074c244c535da"
         }
       ]
     },
-    {
-      "name": "AMC",
-      "logo": "https://bestleague.pl/img/amc.webp",
-      "category": "peliculas",
+
+      {
+      "id": "hbo-plus",
+      "name": "HBO Plus",
+   "logo": "https://bestleague.pl/img/hboplus.webp",
+      "category": "Entretenimiento",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
-          "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a02k/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
+            "name": "Flow",
+            "mpd": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjcxNDU2Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA2IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0lOQ0FBX1R2L1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2I5ZTM0MzYzZjVhZTgxYiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.bKOQIRJw95Lm4zk7GKD9IcyypATBqua3dhRXOlpj5Mx8x7h9Hgw4Quw40cXgOHDZq9IRX5cHus3HvabuR-31dA==/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
+          "keyId": "c1c780647a98d46c3e5867cf204d129a",
+          "key": "006d44f02be55c28f34b9106d79a82a9"
+        }
+      ]
+    },
         {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-76.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
+      "id": "hbo-family",
+      "name": "HBO Family",
+   "logo": "https://bestleague.pl/img/HBOFamily.png",
+      "category": "Entretenimiento",
+      "show": true,
+      "options": [
+        {
+            "name": "Flow",
+            "mpd": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjcxNDU2Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA2IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0lOQ0FBX1R2L1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2I5ZTM0MzYzZjVhZTgxYiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.bKOQIRJw95Lm4zk7GKD9IcyypATBqua3dhRXOlpj5Mx8x7h9Hgw4Quw40cXgOHDZq9IRX5cHus3HvabuR-31dA==/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
+          "keyId": "9768f423e5121ded23637f54245506a2",
+          "key": "abd28dce83c82d26d5953b416db0e52a"
+        }
+      ]
+    },
+      {
+      "id": "hbo-signature",
+      "name": "HBO Signature",
+   "logo": "https://bestleague.pl/img/hbosig.webp",
+      "category": "Entretenimiento",
+      "show": true,
+      "options": [
+        {
+            "name": "Flow",
+            "mpd": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjcxNDU2Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA2IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0lOQ0FBX1R2L1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2I5ZTM0MzYzZjVhZTgxYiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.bKOQIRJw95Lm4zk7GKD9IcyypATBqua3dhRXOlpj5Mx8x7h9Hgw4Quw40cXgOHDZq9IRX5cHus3HvabuR-31dA==/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
+          "keyId": "4918d3bf399a237e8ee065eb3ebf7327",
+          "key": "747179296ae370e9b8746a09904b5385"
+        }
+      ]
+    },
+      {
+      "id": "hbo-xtreme",
+      "name": "HBO XTREME",
+   "logo": "https://bestleague.pl/img/hboxtreme.webp",
+      "category": "Entretenimiento",
+      "show": true,
+      "options": [
+        {
+            "name": "Flow",
+            "mpd": "https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjcyNTgyIiwic2lwIjoiMjAxLjIxNy4yNDcuMTA2IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0hCT19FeHRyZW1lL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiM2Q0ZGQ1ZmVmZWJmNDljNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiI3OCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.17lf1vJrNSTp_zNBPmJg9E_EzaANZuVuFY_KGvFVo_Y_DXEyGK6vIOdkCKZXU2z2vxduTX64zCOymDN-JlFp9A==/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
+          "keyId": "b1c518c4859b1eac1ac409dd7a712155",
+          "key": "d9ae29d636e14074da10360765ee4cb5"
+        }
+      ]
+    },
+      {
+      "id": "hbo-mundi",
+      "name": "HBO MUNDI",
+   "logo": "https://bestleague.pl/img/hbomundi.webp",
+      "category": "Entretenimiento",
+      "show": true,
+      "options": [
+        {
+            "name": "Flow",
+            "mpd": "https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjcyNzMzIiwic2lwIjoiMjAxLjIxNy4yNDcuMTA2IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0hCT19NdW5kaS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjczMjJkMzAyZmM3NjcyM2IiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiNTgiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.5Eh3lHT_YUrvas78wmMgs8e6s1fUw4UY-4ji_0Ly5qoLNPsHpEliBz8m0O_rz_yeGNRFonuWMoSJS31JWTnGzA==/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
+          "keyId": "56fc145492109590d82cf8f60c55d4f5",
+          "key": "c713241579436e0d5fe2480b6eb7b1fd"
+        }
+      ]
+    },
+     {
+      "id": "hbo-pop",
+      "name": "HBO POP",
+   "logo": "https://bestleague.pl/img/hbopop.webp",
+      "category": "Entretenimiento",
+      "show": true,
+      "options": [
+        {
+            "name": "Flow",
+            "mpd": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjcyODY3Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA0IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0hCT19QT1AvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwMzg4YzI2YzE4OTQ2MzhkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjMxNiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.LldU8i2EVerpL_5XflQmz0OxP074p2tIt_z8cXl8ovIasAvMUykdReRy9KbAm6_-_4iLlo9wulUtOViRdCG4lQ==/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
+          "keyId": "782be6aa05e2e53f1f0769ac21335975",
+          "key": "bc54efe24ebc6127dee264704cdd543b"
+        }
+      ]
+    },
+        {
+      "id": "amc",
+      "name": "AMC",
+   "logo": "https://bestleague.pl/img/amc.webp",
+      "category": "Entretenimiento",
+      "show": true,
+      "options": [
+        {
+            "name": "Flow",
+            "mpd": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjczMDA4Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA4IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FNQy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA2NWU5NmNlNDQ3ZmQxYmYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.sbZHENH1tJz0X9ZMDowKLDeX0UeGT3XuvrtCQfj-SJvm5XT5vCigrHidTngzslVtTy2maWIY9zXSDHgh6wP_Ww==/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
+          "keyId": "30ffe7a2776537e8cec7020d783536f9",
+          "key": "7b4f323576ac85d8938f5bebc245131c"
+        }
+      ]
+    },
+       {
+      "id": "amc-series",
+      "name": "AMC Series",
+      "logo": "https://bestleague.pl/img/amc-sr.png",
+      "category": "Entretenimiento",
+      "show": true,
+      "options": [
+        {
+            "name": "Flow",
+            "mpd": "https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjczMTM0Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA0IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0FNQ19TZXJpZXMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImEwNGQyNjhmN2JhYmMxNDIiLCJzZXNzaW9uX2lkIjoiNTE0YTE3MDZkNGE3ODEwMTViYjdhOWE2MmY3MGE2YzEtMTc5MzUwMDMzMy0yNjUiLCJjbGllbnRfaWQiOiJmbG93Ojk5OTkwMDAwNjQ2NjIxMi0tZmxvdzo5OTk5MDAwMDY0NjYyMTI6UDpTOXZFZS1RM1RTeWxNMUNrdjdmSUtBIiwiZGV2aWNlX2lkIjoiNTE0YTE3MDZkNGE3ODEwMTViYjdhOWE2MmY3MGE2YzEiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzMTUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.2q7mXN1MXuQi3tK9WP_vrN4TSxngNGOLYwngsRjpgCqH2mKN9tCDdUK7qDfqsluJIwx6j8hHmtTnd08crIrMbw==/live/c6eds/AMC_Series/SA_Live_dash_enc/AMC_Series.mpd",
+          "keyId": "30ffe7a2776537e8cec7020d783536f9",
+          "key": "7b4f323576ac85d8938f5bebc245131c"
         }
       ]
     },
