@@ -3,7 +3,7 @@
     {
       "id": "tnt-sports",
       "name": "TNT Sports",
-      "logo": "https://assets.tntsports.com.ar/__export/1717073601661/sites/tntsports/arte/apps/facebook_20240530.jpg",
+      "logo": "https://bestleague.pl/img/tntar.svg",
       "category": "Deportes",
       "show": true,
       "options": [
@@ -318,119 +318,67 @@
         }
       ]
     },
-
-    {
-      "name": "Crónica TV",
+{
+      "id": "cronica-tv",
+      "name": "Cronica TV",
       "logo": "https://bestleague.pl/img/cronica.png",
-      "category": "noticias",
+      "category": "Noticias",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
-          "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a010/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/CronicaTv.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
+          "name": "Flow",
+          "mpd": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjY3MzY3Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0Nyb25pY2FUVi9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQwODM3MjAzMDcxNTFkMWIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiI3NyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.ebFKl6wOWv0L3TKX89uTTj5MOoaZCnn4XWyIqMqyyetzIRkbcHxOgSQNU8-ct4tFwZoxO9HpCwkQtIm2GjxcbA==/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
+          "keyId": "33ded37fefaa6c3d6878e0d555dfaffd",
+          "key": "9e024c10af20f240a1ea35b94d147f28"
         }
       ]
     },
-    {
+{
+      "id": "a-24",
       "name": "A24",
       "logo": "https://bestleague.pl/img/a24.webp",
-      "category": "noticias",
+      "category": "Noticias",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a05u/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/a24.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
+            "name": "Flow",
+            "mpd": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjY3MzY3Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0Nyb25pY2FUVi9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQwODM3MjAzMDcxNTFkMWIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiI3NyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.ebFKl6wOWv0L3TKX89uTTj5MOoaZCnn4XWyIqMqyyetzIRkbcHxOgSQNU8-ct4tFwZoxO9HpCwkQtIm2GjxcbA==/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
+          "keyId": "71133ea8e1941323a21acb5090c5c469",
+          "key": "f46178e47581d410008a505eeed759fe"
         }
       ]
     },
-    {
+{
+      "id": "ln-+",
       "name": "LN+",
-      "logo": "https://bestleague.pl/img/ln.webp",
-      "category": "noticias",
+   "logo": "https://bestleague.pl/img/ln.webp",
+      "category": "Noticias",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a05y/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/lntv.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
+            "name": "Flow",
+            "mpd": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjY3MzY3Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0Nyb25pY2FUVi9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQwODM3MjAzMDcxNTFkMWIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiI3NyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.ebFKl6wOWv0L3TKX89uTTj5MOoaZCnn4XWyIqMqyyetzIRkbcHxOgSQNU8-ct4tFwZoxO9HpCwkQtIm2GjxcbA==/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
+          "keyId": "3561945a15a88603aee20ea15c605d6c",
+          "key": "7a1676bb6cc6cbb328f41626d8084594"
         }
       ]
     },
-    {
+  {
+      "id": "canal-26",
       "name": "Canal 26",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/CANAL26.png",
-      "category": "noticias",
+   "logo": "https://bestleague.pl/img/canal26.webp",
+      "category": "Noticias",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
       "options": [
         {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a05x/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
+            "name": "Flow",
+            "mpd": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjY3MzY3Iiwic2lwIjoiMjAxLjIxNy4yNDcuMTA3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0Nyb25pY2FUVi9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQwODM3MjAzMDcxNTFkMWIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiI3NyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.ebFKl6wOWv0L3TKX89uTTj5MOoaZCnn4XWyIqMqyyetzIRkbcHxOgSQNU8-ct4tFwZoxO9HpCwkQtIm2GjxcbA==/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
+          "keyId": "3561945a15a88603aee20ea15c605d6c",
+          "key": "7a1676bb6cc6cbb328f41626d8084594"
         }
       ]
     },
+    
     {
       "name": "CNN Español",
       "logo": "https://angulismotv.pages.dev/assets/logos/app/CNN_ESPAÑOL.png",
@@ -792,110 +740,6 @@
       ]
     },
     
-
-    
-     
-        {
-      "name": "NBA TV (USA)",
-      "logo": "",
-      "category": "deportes",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://23.237.104.106:8080/USA_NBA/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "DeportTV",
-      "logo": "https://angulismotv.pages.dev/assets/logos/app/DEPORTV.png",
-      "category": "deportes",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/deportv.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "TIGO Sports",
-      "logo": "https://images.seeklogo.com/logo-png/44/1/tigo-logo-png_seeklogo-449568.png",
-      "category": "deportes",
-      "show": true,
-      "streamUrl": "http://200.12.41.194:8000/play/a09o/index.m3u8",
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": []
-    },
-    {
-      "name": "Win Sports",
-      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-      "category": "deportes",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://217.26.190.76:8888/play/a06a/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Win Sports+",
-      "logo": "https://bestleague.pl/img/winsports.webp",
-      "category": "deportes",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "https://cgxheq.fubohd.com/winsportsplus/mono.m3u8?token=9bd76a7c1f17dfb1ab8a4160d134d5369322a5ff-e8-1777494976-1777476976",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
     {
       "name": "Cinecanal",
       "logo": "https://angulismotv.pages.dev/assets/logos/app/CINECANAL.png",
